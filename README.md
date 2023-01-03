@@ -1,7 +1,9 @@
 # Instructions
 
 DSMCER Homework 1
-Do the assigned reading for DSMCER (The Data Science review article by Beck et al.). If you have any lingering questions, enter them in the appropriate cell below, in markdown format and colored in red text.
+Do the assigned reading for DSMCER (The Data Science review article by Ashraf et al.). If you have any lingering questions, enter them in the appropriate cell below, in markdown format and colored in red text. The article:
+
+> Ashraf, C.; Joshi, N.; Beck, D. A. C.; Pfaendtner, J. Data Science in Chemical Engineering: Applications to Molecular Science. Annual Review of Chemical and Biomolecular Engineering 2021, 12 (1), 15–37. https://doi.org/10.1146/annurev-chembioeng-101220-102232.
 
 Find a research paper related to your own research area, or a research area of interest that is at the intersection of materials/chemicals science/engineering and Data Science. In the appropriate cell below, add the correct link to the paper so that we can find it.
 
